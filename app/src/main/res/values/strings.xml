@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="confirm_password">confirm password</string>
+    <string name="email">email</string>
+    <string name="password">password</string>
+    <string name="device_imei">Device imei</string>
+    <string name="sl">-</string>
+    <string name="sign_up">SignUp</string>
+    <string name="no_account">no Account</string>
+    <string name="tracking">Track</string>
+    <string name="lock_screen_settings">Lock Screen</string>
+    <string name="phone_recovery">Recovery</string>
+    <string name="add_device">Add Device</string>
+    <string name="notification_Channel_name">Music Channel</string>
+    <string name="notification_Channel_Description">Show the currently music playing</string>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <item name="tv_reach" type="id">reach</item>-->
+<!--    <item name="et_imei" type="id">imei</item>-->
+<!--    <item name="btn_save" type="id">save</item>-->
+<!--    <item name="button" type="id">btn_logout</item>-->
+<!--    <item name="textView" type="id">tv</item>-->
+<!--    <item name="imageView" type="id">image</item>-->
+<!--    <item name="et_name" type="id">name</item>-->
+<!--    <item name="et_model" type="id">Model</item>-->
+<!--    <item name="switch_tracking" type="id">tracking</item>-->
+<!--    <item name="switch_send_sms" type="id">send</item>-->
+<!--    <item name="flFragmentContainer" type="id">framelayout</item>-->
+<!--    <item name="vpSong" type="id">cpsong</item>-->
+<!--    <item name="fragmentContainerView12" type="id">fragnent</item>-->
+<!--    <item name="ivCurSongImage" type="id">cursong</item>-->
+<!--    <item name="ivPlayPause" type="id">play[ause</item>-->
+</resources>
